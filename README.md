@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Md Amanullah
 
 <!--
 **Amanullah21/Amanullah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###About me
+Logical and organised individual with a strong foundation in Web development. Proficient in HTML,CSS, JS and REACT JS. Seeking to raise coding KPIs by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal and communication skills. Looking to start a career as an entry-level professional with a reputed IT company. Ability to adapt in new working environment and deliver well. Updated with the latest technologies.
+
+
