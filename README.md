@@ -1,9 +1,11 @@
 ## Hi there 👋 I am Md Amanullah Full stack Developer
 
-
-- 🌱 I’m currently exploring Web Development;
-- 👯 I’m looking to collaborate with other content creators;
-- 📫 How to reach me: 1amanpce@gamil.com
+🏫 Aspiring Full Stack web developer, learning MERN stack at Masai School.
+👩‍💻 Hands-on practice of solving more than 100DSA problems.
+💻 I am a passionate Frontend web developer, like to work on more challenging websites.
+😃 I’m currently open for: a new job opportunity.
+🤓 Always learning new things
+📫 How to reach me: 1amanpce@gamil.com
 
 
 ## About me :
