@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Md Amanullah Full stack Developer
 
--🏫 Aspiring Full Stack web developer, learning MERN stack at Masai School.
+-🏫 Aspiring Full Stack web developer, learning MERN stack at Masai School. <br/>
 -👩‍💻 Hands-on practice of solving more than 100DSA problems.
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.
 -😃 I’m currently open for: a new job opportunity.
