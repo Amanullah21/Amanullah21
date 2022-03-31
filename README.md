@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Md Amanullah Full stack Developer
 
 -🏫 Aspiring Full Stack web developer, learning MERN stack at Masai School. <br/>
--👩‍💻 Hands-on practice of solving more than 100DSA problems([Leet code](https://leetcode.com/Amanullah21/) & [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]).<br/>
+-👩‍💻 Hands-on practice of solving more than 100DSA problems([Leet code](https://leetcode.com/Amanullah21/) & [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile])).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
 -😃 I’m currently looking for a new job opportunity.<br/>
 -🤓 Always learning new things<br/>
