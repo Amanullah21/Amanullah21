@@ -3,7 +3,7 @@
 -🏫 Aspiring Full Stack web developer, learning MERN stack at Masai School. <br/>
 -👩‍💻 Hands-on practice of solving more than 100DSA problems.<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
--😃 I’m currently open for: a new job opportunity.<br/>
+-😃 I’m currently looking for a new job opportunity.<br/>
 -🤓 Always learning new things<br/>
 -📫 How to reach me: 1amanpce@gamil.com<br/>
 
