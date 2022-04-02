@@ -6,8 +6,8 @@
 -😃 I’m currently looking for a new job opportunity.<br/>
 -🤓 Always learning new things<br/>
 -📫 How to reach me: 1amanmanuu@gamil.com <br/>
-[Linkdin](https://www.linkedin.com/in/amanullah21)<br/>
-[portfolio](https://amanullah21.github.io/Portfolio/) 
+-📫 [Linkdin](https://www.linkedin.com/in/amanullah21)<br/>
+-📫 [Portfolio](https://amanullah21.github.io/Portfolio/) 
 
 
 ## About me :
