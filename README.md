@@ -5,7 +5,9 @@
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
 -😃 I’m currently looking for a new job opportunity.<br/>
 -🤓 Always learning new things<br/>
--📫 How to reach me: 1amanmanuu@gamil.com [Linkdin](https://www.linkedin.com/in/amanullah21)<br/>
+-📫 How to reach me: 1amanmanuu@gamil.com <br/>
+[Linkdin](https://www.linkedin.com/in/amanullah21)<br/>
+[portfolio] (https://amanullah21.github.io/Portfolio/) 
 
 
 ## About me :
