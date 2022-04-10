@@ -55,4 +55,19 @@
         height="30px" />
 </p>
 
+## Let's get connected:
 
+<p>
+    <a href="https://www.linkedin.com/in/amanullah21/">
+     <img alt="Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/amanullah21/"
+            height="35px" />
+    </a>
+    <a href="https://www.linkedin.com/in/amanullah21/"><img alt="LeetCode"
+            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=https://leetcode.com/Amanullah21/"
+            height="35px" /></a>
+        <a href="1amanpce@gmail.com"><img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=1amanpce@gmail.com"
+            height="35px" width = "130px"/></a>
+    
+</p>
