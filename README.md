@@ -15,17 +15,44 @@
  Logical and organised individual with a strong foundation in Web development. Proficient in HTML,CSS, JS and REACT JS. Seeking to raise coding KPIs by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal and communication skills. Looking to start a career as an entry-level professional with a reputed IT company. Ability to adapt in new working environment and deliver well. Updated with the latest technologies.
 
 
-## Languages and Tools:
-#### HTML, CSS,  JAVASCRIPT,  REACT JS,  NODE JS, VS CODE
+
+## 🛠️ Technologies and Tools I use:
+
+<p>
+    <img alt="Javascript"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        height="30px" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        height="30px" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+        height="30px" />
+    <img alt="Nodejs"
+        src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        height="30px" />
+    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+        height="30px" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+        height="30px" />
+    <img alt="Express"
+        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+        height="30px" />   
+    <img alt="Material UI"
+        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+        height="30px" />
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        height="30px" />
+    <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        height="30px" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
+        height="30px" />
+    <img alt="Prettier"
+        src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
+        height="30px" />
+    <img alt="postman"
+        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+        height="30px" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
+        height="30px" />
+</p>
 
 
-## Most Language Used:
-
-![th](https://user-images.githubusercontent.com/73229829/159380776-a9d74a98-482d-431e-904c-1b8ded9c5741.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381127-a51b3640-9a39-44b6-9dd4-a82404122263.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381359-3f160e3b-b143-4185-81e1-3b741fef3850.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381414-ef2b8ce7-57b2-4c45-aad2-0146ca41a6da.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381428-b61bb338-43de-4003-b225-1a396ae9c0c6.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381452-274db756-8736-4a9c-a455-1b640479ce10.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381480-950f5573-4f17-4d45-950e-32a9b934e7ca.jpg)
-![th](https://user-images.githubusercontent.com/73229829/159381504-554e3fab-668d-4c50-b0c9-29394cfa22b7.jpg)
