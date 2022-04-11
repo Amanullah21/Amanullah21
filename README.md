@@ -60,15 +60,15 @@
 ## Let's get connected:
 
 <p>
-    <a href="https://www.linkedin.com/in/amanullah21/">
+    <a href="https://www.linkedin.com/in/amanullah21/" target="_blank">
       <img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/amanullah21/"
             height="35px" />
     </a>
-    <a href="https://leetcode.com/Amanullah21/"><img alt="LeetCode"
+    <a href="https://leetcode.com/Amanullah21/" target="_blank"><img alt="LeetCode"
             src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=https://leetcode.com/Amanullah21/"
             height="35px" /></a>
- <a href="https://auth.geeksforgeeks.org/user/1amanpce/">
+ <a href="https://auth.geeksforgeeks.org/user/1amanpce/" target="_blank">
    <img alt="GeekForGeeks"
         src="https://img.shields.io/badge/GeekForGeeks-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
         height="35px" />
