@@ -19,7 +19,7 @@
 
 ## 🛠️ Technologies and Tools I use:
 
-<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" clear = "both" src="./readme.gif?raw=true" width="500" height="320" />
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -68,12 +68,9 @@
     <a href="https://leetcode.com/Amanullah21/"><img alt="LeetCode"
             src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=https://leetcode.com/Amanullah21/"
             height="35px" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/1amanpce/"><img alt="GeekforGeek"
-            src="https://img.shields.io/badge/-GeeksforGeeks-FFA116?style=for-the-badge&logo=GeekforGeek&logoColor=white?link=https://auth.geeksforgeeks.org/user/1amanpce/"
-            height="35px" /></a>
-    <a href="1amanpce@gmail.com">
-            <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35px"
-            height="35px" width = "130px"/></a>
- 
-    
+ <a href="https://auth.geeksforgeeks.org/user/1amanpce/">
+   <img alt="GeekForGeeks"
+        src="https://img.shields.io/badge/GeekForGeeks-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        height="35px" />
+ </a>    
 </p>
