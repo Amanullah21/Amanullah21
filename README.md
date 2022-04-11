@@ -67,7 +67,7 @@
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=https://leetcode.com/Amanullah21/"
             height="35px" /></a>
         <a href="1amanpce@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=1amanpce@gmail.com"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=http://1amanpce@gmail.com"
             height="35px" width = "130px"/></a>
     
 </p>
