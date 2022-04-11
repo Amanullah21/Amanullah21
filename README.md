@@ -1,16 +1,17 @@
-## Hi there 👋 I am Md Amanullah Full stack Developer
+# Hello Dear 👋 I am Md Amanullah <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+<a href="https://github.com/durgeshrai633/readme-typing-svg">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
 -🏫 Aspiring Full Stack web developer, learning MERN stack at Masai School. <br/>
--👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) & [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile])).<br/>
+-👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) , [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]) & [Hacker Rank](https://www.hackerrank.com/1amanpce)).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
 -😃 I’m currently looking for a new job opportunity.<br/>
 -🤓 Always learning new things<br/>
--📫 How to reach me: 1amanmanuu@gamil.com <br/>
--📫 [Linkdin](https://www.linkedin.com/in/amanullah21)<br/>
--📫 [Portfolio](https://amanullah21.github.io/Portfolio/) 
+-📫 How to reach me: [Mail](1amanpce@gmail.com) <br/>
 
 
 ## About me :
+
 
  Logical and organised individual with a strong foundation in Web development. Proficient in HTML,CSS, JS and REACT JS. Seeking to raise coding KPIs by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal and communication skills. Looking to start a career as an entry-level professional with a reputed IT company. Ability to adapt in new working environment and deliver well. Updated with the latest technologies.
 
@@ -18,6 +19,7 @@
 
 ## 🛠️ Technologies and Tools I use:
 
+<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -59,15 +61,19 @@
 
 <p>
     <a href="https://www.linkedin.com/in/amanullah21/">
-     <img alt="Linkedin"
+      <img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/amanullah21/"
             height="35px" />
     </a>
     <a href="https://leetcode.com/Amanullah21/"><img alt="LeetCode"
-            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=https://leetcode.com/Amanullah21/"
+            src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=https://leetcode.com/Amanullah21/"
             height="35px" /></a>
-        <a href="1amanpce@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=http://1amanpce@gmail.com"
+    <a href="https://auth.geeksforgeeks.org/user/1amanpce/"><img alt="GeekforGeek"
+            src="https://img.shields.io/badge/-GeeksforGeeks-FFA116?style=for-the-badge&logo=GeekforGeek&logoColor=white?link=https://auth.geeksforgeeks.org/user/1amanpce/"
+            height="35px" /></a>
+    <a href="1amanpce@gmail.com">
+            <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35px"
             height="35px" width = "130px"/></a>
+ 
     
 </p>
