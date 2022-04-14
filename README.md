@@ -74,3 +74,17 @@
         height="35px" />
  </a>    
 </p>
+
+
+
+### Most Language Used:
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanullah21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  
+  
+### GitHub status:
+  
+  ![Md Amanullah GitHub status](https://github-readme-stats.vercel.app/api?username=Amanullah21&theme=dark&show_icons=true) 
+
+    
