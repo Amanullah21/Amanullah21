@@ -84,7 +84,7 @@
   
   
 ### GitHub status:
-  
+   ![Md Amanullah GitHub status](https://github-readme-stats.vercel.app/api?username=Amanullah21&theme=dark&show_icons=true) 
  
 
     
