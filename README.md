@@ -2,7 +2,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Softwere+Engineer+at+Macmerise;&center=true&width=400&height=70"></a>
 
--🏫 I am Software Engineer at Macmerise. <br/>
+-🏫 I am working as Software Engineer at Macmerise. <br/>
 -👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) , [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]) & [Hacker Rank](https://www.hackerrank.com/1amanpce)).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
 -😃 I’m currently looking for a new job opportunity.<br/>
