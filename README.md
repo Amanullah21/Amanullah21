@@ -1,8 +1,8 @@
 # Hello Dear 👋 I am Md Amanullah <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer;&center=true&width=400&height=50"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Softwere+Engineer;&center=true&width=400&height=50"></a>
 
--🏫 I am Front-end Web Devloper. <br/>
+-🏫 I am Software Engineer at Macmerise. <br/>
 -👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) , [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]) & [Hacker Rank](https://www.hackerrank.com/1amanpce)).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
 -😃 I’m currently looking for a new job opportunity.<br/>
