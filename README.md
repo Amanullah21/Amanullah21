@@ -2,6 +2,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer+at+CapazLabs;&center=true&width=400&height=70"></a>
 
+-🏫 I am currently working as web Developer at Capazlabs <br/>
 -🏫 I was worked as Software Engineer at Macmerise. <br/>
 -👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) , [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]) & [Hacker Rank](https://www.hackerrank.com/1amanpce)).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
@@ -23,7 +24,8 @@
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-        height="30px" />
+        height="30px" 
+     />   
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
         height="30px" />
     <img alt="Nodejs"
@@ -52,7 +54,15 @@
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
         height="30px" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
-        height="30px" />
+        height="30px" /> 
+   <img alt="Wordpress"
+        src="https://img.shields.io/badge/Wordpress-d54e21?style=for-the-badge&logo=wordpress&logoColor=white"
+        height="30px" 
+     />
+  <img alt="Shopify"
+        src="https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white"
+        height="30px" 
+     />
 </p>
 
 ## Let's get connected:
