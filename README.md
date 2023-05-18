@@ -31,7 +31,7 @@
     <img alt="Nodejs"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
         height="30px" />
-    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+    <img alt="npm" src="https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&logo=npm&logoColor=white"
         height="30px" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
         height="30px" />
