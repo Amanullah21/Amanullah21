@@ -2,88 +2,72 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
+      body {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+      }
 
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
+      .typewriter h1 {
+        overflow: hidden;
+        white-space: nowrap;
+        border-right: 0.15em solid orange;
+        /* padding-left:px; */
+        margin: 0 auto; /* Makes the text centered */
+        letter-spacing: 0.15em; /* Adjust the spacing between characters */
+        background-image: linear-gradient(
+          to right,
+          #ff8a00,
+          #e52e71,
+          #89216b,
+          green
+        ); /* Gradient colors for text */
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite,
+          rotateText 8s linear infinite;
+        -webkit-animation-fill-mode: forwards; /* To retain final text style after animation ends */
+        animation-fill-mode: forwards;
+      }
 
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
+      /* The typing animation */
+      @keyframes typing {
+        from {
+          width: 0;
+        }
+        to {
+          width: 100%;
+        }
+      }
 
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 200px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
-
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
-			<div class="container">
-				<h1>Hello dear, I am Md Amanullah</h1>
-			</div>
+      /* The blinking cursor animation */
+      @keyframes blink-caret {
+        from,
+        to {
+          border-color: transparent;
+        }
+        50% {
+          border-color: orange;
+        }
+        80% {
+          border-color: rgb(43, 231, 5);
+        }
+      }
+      @keyframes rotateText {
+        0% {
+          transform: rotate(5deg);
+        }
+        50% {
+          transform: rotate(-5deg);
+        }
+      }
+    </style>
+			<div class="typewriter">
+      <h1><span>Hello</span> dear, I am Amanullah</h1>
+    </div>
 		</div>
 	</foreignObject>
 </svg>
