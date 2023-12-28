@@ -16,7 +16,7 @@
         border-right: 0.10em solid orange;
         /* padding-left:px; */
         margin: 0 auto; /* Makes the text centered */
-        letter-spacing: 0.10em; /* Adjust the spacing between characters */
+        letter-spacing: 0.15em; /* Adjust the spacing between characters */
         background-image: linear-gradient(
           to right,
           #ff8a00,
