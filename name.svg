@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 650 100" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 670 100" height="100" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="85%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -13,10 +13,10 @@
 	padding-top:30px;
         overflow: hidden;
         white-space: nowrap;
-        border-right: 0.15em solid orange;
+        border-right: 0.10em solid orange;
         /* padding-left:px; */
         margin: 0 auto; /* Makes the text centered */
-        letter-spacing: 0.15em; /* Adjust the spacing between characters */
+        letter-spacing: 0.10em; /* Adjust the spacing between characters */
         background-image: linear-gradient(
           to right,
           #ff8a00,
