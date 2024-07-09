@@ -1,10 +1,10 @@
 <img src="name.svg" alt="Click to see the source">  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+SDE+at+Masai;&center=true&width=400&height=70"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Quality+Assurance+at+Masai;&center=true&width=400&height=70"></a>
 
--🏫 I am currently working as web Developer at Capazlabs <br/>
--🏫 I was worked as Software Engineer at Macmerise. <br/>
+-🏫 I am currently working as Quality Assurance at Capazlabs <br/>
+-🏫 I was worked as Web Developer at Capazlabs. <br/>
 -👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) , [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]) & [Hacker Rank](https://www.hackerrank.com/1amanpce)).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
 -😃 I’m currently looking for a new job opportunity.<br/>
@@ -14,8 +14,15 @@
 
 ## About me :
 
-
- Logical and organised individual with a strong foundation in Web development. Proficient in HTML,CSS, JS and REACT JS. Seeking to raise coding KPIs by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal and communication skills. Looking to start a career as an entry-level professional with a reputed IT company. Ability to adapt in new working environment. Updated with the latest technologies.
+Diligent Quality Assurance Engineer with expertise in software testing methodologies and tools. Proficient in identifying and documenting defects, creating comprehensive
+test plans, and executing test cases to ensure product quality. Skilled in both manual
+and automated testing, with a focus on delivering reliable and user-friendly software
+solutions. Strong analytical mindset, attention to detail, and a collaborative approach to
+problem-solving. Dedicated to continuously improving processes and exceeding quality
+standards in a dynamic work environment. Known for effectively communicating with
+cross-functional teams to align testing efforts with project goals. Committed to staying
+updated with emerging technologies and industry best practices to drive innovation and
+efficiency in QA processes.
 
 
 
@@ -23,6 +30,10 @@
 
 <img align="right" alt="GIF" clear = "both" src="./readme.gif?raw=true" width="500" height="320" />
 <p>
+   <img alt="Selenium"
+        src="https://img.shields.io/badge/Selenium-00b400?style=for-the-badge&logo=Selenium&logoColor=white"
+        height="30px" 
+     /> 
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         height="30px" 
