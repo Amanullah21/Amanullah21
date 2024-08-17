@@ -3,7 +3,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Quality+Assurance+at+Masai;&center=true&width=400&height=70"></a>
 
--🏫 I am currently working as Quality Assurance at Capazlabs <br/>
+-🏫 I am currently working as Quality Assurance Engineer at Masai <br/>
 -🏫 I was worked as Web Developer at Capazlabs. <br/>
 -👩‍💻 Hands-on practice of solving more than 100+ DSA problems([Leet code](https://leetcode.com/Amanullah21/) , [GeekforGeek](https://auth.geeksforgeeks.org/user/1amanpce/profile]) & [Hacker Rank](https://www.hackerrank.com/1amanpce)).<br/>
 -💻 I am a passionate Frontend web developer, like to work on more challenging websites.<br/>
