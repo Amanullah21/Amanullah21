@@ -1,7 +1,7 @@
 <img src="name.svg" alt="Click to see the source">  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Quality+Assurance+at+Masai;&center=true&width=400&height=70"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Quality+Assurance+Engineer+at+Masai;&center=true&width=400&height=70"></a>
 
 -🏫 I am currently working as Quality Assurance Engineer at Masai <br/>
 -🏫 I was worked as Web Developer at Capazlabs. <br/>
