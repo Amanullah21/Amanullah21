@@ -30,8 +30,8 @@ efficiency in QA processes.
 
 <img align="right" alt="GIF" clear = "both" src="./readme.gif?raw=true" width="500" height="320" />
 <p>
-   <img alt="Selenium"
-        src="https://img.shields.io/badge/Selenium-00b400?style=for-the-badge&logo=Selenium&logoColor=white"
+   <img alt="Playwright"
+        src="https://img.shields.io/badge/Playwright-00b400?style=for-the-badge&logo=Playwright&logoColor=white"
         height="30px" 
      /> 
     <img alt="Javascript"
