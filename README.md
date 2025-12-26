@@ -13,33 +13,43 @@
 
 ### 🚀 About Me
 
-> _"Passionate QA Engineer with 2+ years of experience in software testing and web development"_
+> _"Passionate QA Engineer with 3+ years of experience in software testing and web development"_
 
-Detail-oriented QA Engineer skilled in ensuring software quality and improving product efficiency. Experienced in manual testing, automation using Playwright, and defect tracking. Strong understanding of Agile methodologies, collaborating with product teams to drive feature improvements and optimize user experience. Focused on delivering scalable and high-performing solutions.
+Detail-oriented QA Engineer with 3+ years of experience in Automation, Manual, API, Performance, and Security
+testing, specializing in Playwright-based automation. Proficient in designing and executing test strategies, test
+plans, and test cases for scalable, high-performance, user-centric applications.Hands-on experience in API
+testing (Postman/REST), performance testing (JMeter), defect tracking (JIRA), and test reporting. Strong
+knowledge of Agile/Scrum methodologies, SDLC/STLC, and continuous quality practices.Effective collaborator
+with cross-functional teams, focused on automation-first approaches and reliable, secure software delivery.
 
 ## 💼 Professional Experience
 
 ### Quality Assurance Engineer – Masai School | Bangalore
 
 **Oct 2023 - Present**
-
-- Managed two key products—LMS and Assess—overseeing product strategy, user experience, and feature development for 20,000+ active users
-- Led the Assess Platform, improving assessment workflows, AI-based evaluations, and entrance exams, achieving a 20% increase in user satisfaction
-- Managed 10+ feature releases, collaborating with engineering, design, and business teams
-- Executed 100+ automated and manual test cases, identifying and resolving 50+ critical defects
-- Improved system performance, reducing downtime by 25% through technical optimizations
-- Leveraged data analysis to boost feature adoption by 30% and cut post-release bugs by 20%
+- **Automation Leadership**: Directed end-to-end testing for high-traffic platforms serving 100k+ users, with
+20% Active users, ensuring stable, on-time releases.
+- **Framework Engineering**: Developed automated workflows and evaluation engines, improving processing
+speed by 25% and system reliability.
+- **Multi-Platform Validation**: Validated complex system simulations and monitoring tools for accuracy,
+fairness, and performance under peak load.
+- **API & Integration Testing**: Partnered with cross-functional teams to automate and launch 100+ scalable
+features, ensuring seamless API integration.
+- **Security & Stability**: Executed 1,000+ test cases to identify 100+ critical security and stability issues,
+maintaining high application integrity.
+- **Pipeline Optimization**: Streamlined QA pipelines to reduce manual test cycles by 30% and platform
+downtime by 25% through CI/CD automation.
 
 ### Web Developer – Capaz Labs | Nagpur
 
-**Dec 2022 – May 2023**
+**June 2022 – May 2023**
 
 - Worked on 3+ client-based live projects using Shopify and WordPress
 - Improved website load times by 40% through optimization
 - Collaborated with Business Leads and 5+ clients, achieving 25% increase in customer satisfaction
 - Implemented responsive design with 100% cross-device compatibility
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### Frontend & Development
 
@@ -54,7 +64,7 @@ Detail-oriented QA Engineer skilled in ensuring software quality and improving p
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30px"/>
-</div>
+</div> 
 
 ### Testing & Automation
 
