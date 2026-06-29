@@ -13,32 +13,23 @@
 
 ### 🚀 About Me
 
-> _"Passionate QA Engineer with 3+ years of experience in software testing and web development"_
+> _"AI QA Engineer with 3+ years of experience in software testing and web development"_
 
-Detail-oriented QA Engineer with 3+ years of experience in Automation, Manual, API, Performance, and Security
-testing, specializing in Playwright-based automation. Proficient in designing and executing test strategies, test
-plans, and test cases for scalable, high-performance, user-centric applications.Hands-on experience in API
-testing (Postman/REST), performance testing (JMeter), defect tracking (JIRA), and test reporting. Strong
-knowledge of Agile/Scrum methodologies, SDLC/STLC, and continuous quality practices.Effective collaborator
-with cross-functional teams, focused on automation-first approaches and reliable, secure software delivery.
+AI QA Engineer with 3+ years experience in manual testing, test automation, performance testing, and AI application validation. Designed and built an AI-powered testing agent that runs automated API, security, and load-testing workflows. Experienced testing GenAI products, LLM evaluation engines, conversational AI systems, and modern web apps using Playwright. Passionate about improving software quality through automation, scalable test frameworks, and data-driven testing.
 
 ## 💼 Professional Experience
 
 ### Quality Assurance Engineer – Masai School | Bangalore
 
-**Oct 2023 - Present**
-- **Automation Leadership**: Directed end-to-end testing for high-traffic platforms serving 100k+ users, with
-20% Active users, ensuring stable, on-time releases.
-- **Framework Engineering**: Developed automated workflows and evaluation engines, improving processing
-speed by 25% and system reliability.
-- **Multi-Platform Validation**: Validated complex system simulations and monitoring tools for accuracy,
-fairness, and performance under peak load.
-- **API & Integration Testing**: Partnered with cross-functional teams to automate and launch 100+ scalable
-features, ensuring seamless API integration.
-- **Security & Stability**: Executed 1,000+ test cases to identify 100+ critical security and stability issues,
-maintaining high application integrity.
-- **Pipeline Optimization**: Streamlined QA pipelines to reduce manual test cycles by 30% and platform
-downtime by 25% through CI/CD automation.
+**Sep 2023 - Present**
+
+- Developed an **AI-powered testing agent using LLMs** to automate API testing, security vulnerability scanning, and load testing, accelerating test execution by 75% and significantly reducing manual QA effort.
+- Led end-to-end quality assurance for **high-traffic LMS and online assessment platforms** serving **100K+ users** and **20K+ daily active users**, ensuring stable, secure, and on-time releases.
+- Designed and implemented Playwright automation frameworks and AI pipelines to validate **GenAI applications, LLM responses, and conversational AI workflows**, improving test execution efficiency by 25%.
+- **Partnered** with engineering, product, and DevOps teams to automate testing for **100+ product features**, ensuring reliable API integrations and accelerating release cycles.
+- Executed **1,000+ manual and automated test cases, preemptively identifying 100+ critical functional, security, and performance vulnerabilities** to safeguard platform stability and user experience.
+- Integrated test suites into **CI/CD pipelines**, reducing manual regression effort by **30%**, shortening release cycles, and decreasing production downtime by **25%**.
+
 
 ### Web Developer – Capaz Labs | Nagpur
 
@@ -71,14 +62,10 @@ downtime by 25% through CI/CD automation.
 <div align="left">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="30px"/>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30px"/>
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30px"/>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30px"/>
-  <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" height="30px"/>
-  <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" height="30px"/>
   <img alt="TestNG" src="https://img.shields.io/badge/TestNG-00A98F?style=for-the-badge&logo=testng&logoColor=white" height="30px"/>
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="30px"/>
   <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" height="30px"/>
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30px"/>
 </div>
 
 ### API Testing & Performance
@@ -87,8 +74,6 @@ downtime by 25% through CI/CD automation.
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30px"/>
   <img alt="Rest Assured" src="https://img.shields.io/badge/Rest_Assured-00ADD8?style=for-the-badge&logo=rest-assured&logoColor=white" height="30px"/>
   <img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" height="30px"/>
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" height="30px"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30px"/>
 </div>
 
 ### DevOps & Tools
@@ -97,11 +82,6 @@ downtime by 25% through CI/CD automation.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30px"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="30px"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30px"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30px"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30px"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="30px"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30px"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30px"/>
 </div>
 
 ### CMS & E-commerce
@@ -117,7 +97,6 @@ downtime by 25% through CI/CD automation.
 <div align="left">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30px"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/>
 </div>
 
 ## 📊 GitHub Stats
