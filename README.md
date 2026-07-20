@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-> _"AI QA Engineer with 3+ years of experience in software testing and web development"_
+> _"QA Engineer with 3+ years of experience in software testing and web development"_
 
-AI QA Engineer with 3+ years experience in manual testing, test automation, performance testing, and AI application validation. Designed and built an AI-powered testing agent that runs automated API, security, and load-testing workflows. Experienced testing GenAI products, LLM evaluation engines, conversational AI systems, and modern web apps using Playwright. Passionate about improving software quality through automation, scalable test frameworks, and data-driven testing.
+QA Engineer with 3+ years experience in manual testing, test automation, performance testing, and AI application validation. Designed and built an AI-powered testing agent that runs automated API, security, and load-testing workflows. Experienced testing GenAI products, LLM evaluation engines, conversational AI systems, and modern web apps using Playwright. Passionate about improving software quality through automation, scalable test frameworks, and data-driven testing.
 
 ## 💼 Professional Experience
 
